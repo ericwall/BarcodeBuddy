@@ -15,6 +15,7 @@ kotlin {
             }
         }
     }
+    jvmToolchain(17)
 }
 
 compose.desktop {

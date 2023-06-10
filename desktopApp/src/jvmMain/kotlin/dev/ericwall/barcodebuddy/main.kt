@@ -13,6 +13,7 @@ fun main() = application {
         onCloseRequest = {
             exitApplication()
         },
+        title = "BarcodeBuddy"
     ) {
         window.minimumSize = Dimension(
             700,
