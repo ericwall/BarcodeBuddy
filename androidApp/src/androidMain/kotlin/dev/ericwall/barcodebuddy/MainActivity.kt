@@ -1,4 +1,4 @@
-package com.myapplication
+package dev.ericwall.barcodebuddy
 
 import MainView
 import android.os.Bundle

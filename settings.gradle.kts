@@ -1,4 +1,4 @@
-rootProject.name = "MyApplication"
+rootProject.name = "BarcodeBuddy"
 
 include(":androidApp")
 include(":shared")
